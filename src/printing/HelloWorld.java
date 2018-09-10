@@ -12,5 +12,5 @@ public class HelloWorld {
 				"  J  J  aaaaa   V V  aaaaa                                                \r\n" + 
 				"   JJ  a     a   V  a     a");
 	}
-	
+		
 }
