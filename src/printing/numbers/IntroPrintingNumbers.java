@@ -6,7 +6,7 @@ public class IntroPrintingNumbers {
 	   
            System.out.println(81 / 9); 
 	     
-	     
+	     System.out.println( ":)" );
 	        
 	  }  
 	     
