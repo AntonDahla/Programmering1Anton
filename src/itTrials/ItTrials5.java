@@ -5,7 +5,7 @@ public class ItTrials5 {
 
    public static void main(String args[])
    {
-      int n, reverse = 2;
+      int n, reverse = 4;
          
       System.out.println("Enter an integer to reverse");
       Scanner in = new Scanner(System.in);
