@@ -5,8 +5,8 @@ public class DoubleNumber {
 	
 	
 	public static void main(String[] args) {
-		 double doubleNumber = 10.0;
-		 int integerNumber = 10;
+		 double doubleNumber = 11.0;
+		 int integerNumber = 11;
 		 
 		 
 		 boolean equal = doubleNumber == integerNumber;
