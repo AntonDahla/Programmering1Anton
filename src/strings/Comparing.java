@@ -3,7 +3,7 @@ package strings;
 public class Comparing {
        
      public static void main(String[] args) {
-    	    String romanNumber = "MMXVII"; 
+    	    String romanNumber = "MMXVI"; 
     	    int number = 0;
     	    
     	    
