@@ -1,11 +1,11 @@
 package itTrials;
 import java.util.Scanner;
+ 
+public class ItTrials5 {
 
-class ReverseNumber
-{
    public static void main(String args[])
    {
-      int n, reverse = 0;
+      int n, reverse = 2;
          
       System.out.println("Enter an integer to reverse");
       Scanner in = new Scanner(System.in);
